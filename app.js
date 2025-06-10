@@ -5,7 +5,7 @@ const crypto = require("crypto");
 const app = express();
 const port = 3000;
 
-const API_KEY = "YOUR_API_KEY"; // ⚠️ Thay bằng API key thật từ Card2K
+const API_KEY = "Fshukr0Ewx7n3vmdDUfSLqqaX7Uf5gUR"; // ⚠️ Thay bằng API key thật từ Card2K
 
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
